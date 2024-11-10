@@ -24,6 +24,7 @@
 
 
 ```html
+<!-- ex-html-01.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -66,6 +67,8 @@
      - **New Input Types**: Go over new input types (e.g., `<email>`, `<tel>`, `<date>`, `<range>`), form validation features, and input attributes (e.g., `placeholder`, `required`).
 
 ```html
+<!-- ex-html-02.html -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
